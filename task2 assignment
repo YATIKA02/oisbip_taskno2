@@ -1,0 +1,56 @@
+<html>
+<head>
+  <title>A Tribute to [Person's Name]</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color:palevioletred;
+    }
+    
+    h1 {
+      text-align: center;
+      color: purple;
+      padding-top: 40px;
+    }
+    h4 {
+      text-align: center;
+      color: blueviolet;
+      padding-top: 40px;
+    }
+    
+    p {
+      margin: 20px 0;
+      line-height: 1.6;
+      text-align: justify;
+      padding: 0 20px;
+    }
+    
+  </style>
+</head>
+<body style="background-color:skyblue;">
+  <h1>A Tribute to my Best Friend</h1>
+  <h1>Sahil Saxena</h1>
+
+  <p>
+    <h4>Because we share a special bond</h4>
+    From the first time we met, there was something between us that is almost indescribable. I know that you will always be a part of my life, and I am so thankful for the bond we share. I am grateful for you and everything we have experienced together.
+  </p>
+
+  <p>
+    <h4>Thank you for being there</h4>
+    You have always been there for me. I know I can count on you no matter what I need. Whether I ask for a cup of sugar or a shoulder to lean on, you are my rock. Thank you for being there for me.
+  </p>
+
+  <p>
+    <h4>To the friend who deserves everything</h4>
+    I just want you to know that I think you deserve the world. You are one of the kindest, most caring people I have ever met. You give of yourself without expecting anything in return. I hope you recognize how amazing you are.
+  </p>
+</body>
+</html>
+
+
+
+
+
+
+
